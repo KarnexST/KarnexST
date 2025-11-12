@@ -7,17 +7,21 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+%F0%9F%91%8B+I'm+Shalini+Singh" style="font-weight: bold;" alt="Animated greeting" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&height=50&lines=Hi%2C+%F0%9F%91%8B+I'm+Shalini+Singh" style="font-family: cursive;" alt="Animated greeting" />
   <br>
   <img src="https://github.com/PaceRunerz/PaceRunerz/blob/main/wave.gif?raw=true" width="40px" height="40px" alt="Waving hand animation">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=800&color=8A2BE2&center=true&vCenter=true&width=1100&lines=WHERE+BIOLOGY+MEETS+CODE+;DESIGNING+IDEAS+THAT+GROW+LIKE+LIFE+ITSELF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=WHERE+BIOLOGY+MEETS+CODE;DESIGNING+IDEAS+THAT+GROW+LIKE+LIFE+ITSELF)](https://git.io/typing-svg)
+
+
 
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: space-between; align-items: flex-start;">
+
+<div style="flex: 1; text-align: left; padding-right: 20px;">
 
 ## <span style="font-family: cursive; font-size: 28px; font-weight: bold;">🚀 Current Focus</span>
 
@@ -27,6 +31,12 @@
 🧬 <strong>Studying the role of genetic data and computational biology in sustainable innovation</strong><br><br>
 🌱 <strong>Designing eco-friendly and tech-driven biotech concepts that support environmental balance</strong>
 </p>
+
+</div>
+
+<div style="flex: 1; text-align: center;">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="80%" alt="Coding animation"/>
+</div>
 
 </div>
 
@@ -107,27 +117,31 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px"/>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
 
 ### <span style="font-family: cursive; font-size: 24px; font-weight: bold;">🌐 Connect</span>
 <div>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:singhshalini7545@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/shalini-singh-42a123298">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://github.com/your-username">
+  <a href="https://https://github.com/singhshalini7545-dot">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="80%" alt="Animated divider"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width="60%" alt="Animated divider"/>
+  <img src="https://private-user-images.githubusercontent.com/166680926/449745046-bf97687b-8d9d-42d0-927c-25b7bfb8d3da.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjI5NjI5NzQsIm5iZiI6MTc2Mjk2MjY3NCwicGF0aCI6Ii8xNjY2ODA5MjYvNDQ5NzQ1MDQ2LWJmOTc2ODdiLThkOWQtNDJkMC05MjdjLTI1YjdiZmI4ZDNkYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTEyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExMlQxNTUxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00MDI3Y2M1YTc4MjZmOWM2N2E4YzgzZGY1NDRmNWFhZGFiMmQzYTQ2MjY1MWFkN2FkYTAzYmY3ZGE2YzA2YjdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.22bqmuPclUTf4bd1QuYEjVhY2OB2ivVt_v6DcRxvW2Q" width="40%" alt="Animated divider before GitHub stats"/>
 </div>
 
 <br>
@@ -153,3 +167,5 @@
     </td>
   </tr>
 </table>
+
+</div>
