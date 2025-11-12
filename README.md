@@ -178,10 +178,10 @@
 
 <div align="center">
 
-### <span style="font-family: cursive; font-size: 20px; font-weight: bold;">🌿 GitHub 3D Contributions</span>
+### <span style="font-family: cursive; font-size: 20px; font-weight: bold;">🌙 GitHub 3D Contributions</span>
 
 <br>
 
-<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D GitHub Contributions Graph"/>
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D GitHub Contributions Graph - Night View Theme"/>
 
 </div>
