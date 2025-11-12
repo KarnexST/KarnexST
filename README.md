@@ -14,8 +14,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=32&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=1100&lines=WHERE+BIOLOGY+MEETS+CODE;DESIGNING+IDEAS+THAT+GROW+LIKE+LIFE+ITSELF)](https://git.io/typing-svg)
 
-
-
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px"/>
 
@@ -127,7 +125,7 @@
   <a href="https://www.linkedin.com/in/shalini-singh-42a123298">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="35"/>
   </a>
-  <a href="https://https://github.com/singhshalini7545-dot">
+  <a href="https://github.com/singhshalini7545-dot">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35"/>
   </a>
 </div>
@@ -135,8 +133,6 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="10px"/>
-
-
 
 </div>
 
@@ -157,15 +153,15 @@
 <table style="border: none; width: 80%; margin: 0 auto;">
   <tr>
     <td style="width: 50%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=singhshalini7545-dot&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&layout=compact" width="100%"/>
     </td>
     <td style="width: 50%;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=dark&hide_border=true&layout=compact" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhshalini7545-dot&theme=dark&hide_border=true&layout=compact" width="100%"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&theme=dark&hide_border=true&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" width="50%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhshalini7545-dot&theme=dark&hide_border=true&layout=compact&langs_count=6&size_weight=0.5&count_weight=0.5" width="50%"/>
     </td>
   </tr>
 </table>
